@@ -10,12 +10,7 @@
     <?php
 if($_POST["uname"]=="admin" and $_POST["psw"]==1234){
     
-
-
-
    echo "<img src=\"adminimg.png\" alt=\"image\" width=100% align=center >";
-
-    
     
 } else {
 
